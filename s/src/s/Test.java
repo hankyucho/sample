@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("맛스타 변신");
 		System.out.println("맛스타라니.. ㅠㅠ 이젠 맛스타 안나와유!!");
 		System.out.println("마스터!!");
+		System.out.println("마스터!!");
 	}
 
 }
